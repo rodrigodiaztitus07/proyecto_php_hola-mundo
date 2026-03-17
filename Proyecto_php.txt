@@ -1,0 +1,9 @@
+
+
+<?php
+echo "Hola mundo, soy Rodrigo Díaz!";
+?>
+
+<br><br>
+
+<img src="imagen_php.png" alt="Foto de Rodrigo" width="300">
