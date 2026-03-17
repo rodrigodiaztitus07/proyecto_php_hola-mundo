@@ -16,7 +16,7 @@ Compilar el archivo del programa usando un compilador de C.
 Ejecutar el programa desde la terminal.
 El programa mostrará el mensaje "Hola mundo" en pantalla.
 
-Datos del autor:
-Nombre: Rodrigo Díaz
-Correo: 15010642@galileo.edu
-Carnet: 15010642
+Datos del autor (nombre, correo, carnet): 
+Rodrigo Díaz 
+15010642@galileo.edu 
+15010642
